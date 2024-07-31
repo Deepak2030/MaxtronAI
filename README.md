@@ -117,3 +117,6 @@ curl -X GET "http://localhost:3000/api/message?password=your_password"
 - If required fields are missing in the request body, a `400 Bad Request` status will be returned.
 - If there is an error interacting with the blockchain, a `500 Internal Server Error` status will be returned with the error message.
 
+
+
+![image](https://github.com/user-attachments/assets/1f07d06c-61f8-4a79-9a06-87d428606e3d)
